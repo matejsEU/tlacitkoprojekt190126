@@ -4,36 +4,25 @@ Tlacitko19.1.26 project
 Účel/Zadání/Funkce
 -----------------------
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
-    * píst
-    * mikroprocesor
-
-
-Schéma zapojení
------------------------
-
-![schéma zapojení](./docs/schema.png)
+* Svítící LED
 
 Popis funkce
 -----------------------
 
-1. ono se to
-2. samo se to
+1. Když podržím tlačítko, LED se rozsvítí
+2. Když pustím tlačítko, LED zhasne
 
 ToDo
 -----------------------
 
-* ještě chybí tamto
+* Podržet tlačítko
 
 Zhodnocení
 -----------------------
 
-Na tomto projektu jsem se naučíl jedno a druhé a došlo mi jak funguje třetí.
-Zlepšil jsem se v tamtom.
+Naučil jsem se jak dlouho může trvat něco jako instalování virtualboxu
+a následného nastavení všeho ostatního.
 
-Svou práci bych ohodnotil chvalitebně, protože jsem nepracoval úplně samostatně,
-ale vše jsem implementoval a prozkoumal.
-
-Svou práci bych ohodnotil výborně. Nepracoval jsem sice samostatně,
-ale nakonec jsem hotový projekt smazal a vytvořil ho celý znovu sám.
+Svou práci bych ohodnotil chvalitebně, vzhledem s problémy s programování
+hlavní funkce, kde vscodium měl problém s použitím "else". Tento problém
+bych nevyřešil bez pomoci internetu.
